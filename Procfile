@@ -1,0 +1,1 @@
+web: sh setup.sh && streamlit run Day_19_Web_todo.py
